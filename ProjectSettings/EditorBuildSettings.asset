@@ -4,5 +4,32 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 1ac73557e5a2fc04eb124f91c0ec0513
+  - enabled: 1
+    path: Assets/Scenes/StartingArea.unity
+    guid: d57307d9aaf84444a98afad7285011de
+  - enabled: 1
+    path: Assets/Scenes/Medium.unity
+    guid: ae17b7668fcc24045908b6c8d5ed0598
+  - enabled: 1
+    path: Assets/Scenes/Easy.unity
+    guid: 1e861d2293f5e1240a918da5eac21f18
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MaterailTest.unity
+    guid: d4b2cfac072a0e340b48f09e1190581a
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 262b868e2ac2a624480e2f9cfe3ec029
+  - enabled: 1
+    path: Assets/Scenes/Maze.unity
+    guid: 79c02b06aca1bf640a2cfb3332a4273f
+  - enabled: 1
+    path: Assets/Scenes/EndScreen.unity
+    guid: bd2475f32eb7bb049b886d482f787a8e
   m_configObjects: {}
